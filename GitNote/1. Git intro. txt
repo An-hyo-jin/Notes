@@ -1,0 +1,66 @@
+1. git 이란
+    1) VCS (Version Control System)
+            ---------------
+        - software
+            - tracks and manages changes
+
+    2) Git 
+        - is just one VCS
+        - other VCS
+            - Subversion, CVS, Mercurial
+        
+            - Linus Torvalds
+            - Coders & Engineer
+            - Governments, Scientists, Writers, Anyone...
+
+            - all on my local machine 
+            - upload my history to Github to share with others
+
+    3) Git is Primarily a Terminal Tool 
+        - command-line tool 
+        - various git commands
+        - git GUI's 
+
+2. Configuring Git
+    - git config --global user.name "Tom Cruse"      //공백 없으면 그냥 해도 되고 공백 있으면  ""
+    - git config --global user.email tom@gmail.com   //깃에 저장된 이메일 적기 
+
+3. Repository - 저장소 
+    1) Repo 
+        - workspce with tracks and manages files within a folder 
+
+4. Git Command
+    1) git status
+        - give information on the current status of a git repository and its contents 
+    2) git init 
+        - create a new fit repository
+        - git tracks a directory and all nested subdirectories
+        - git is now watching that!
+    3) git commit
+
+5. Committing 
+    1) save
+    2) snapshot 
+    3) 예
+
+    delete team. html
+    modified about.html
+    modified about.css
+    created navbar.html
+    created navbar.css
+    created navbar.js 
+    created logo.jpg
+
+     Working Directory   ------------  
+                                    \|/
+                                    git add 
+                                     |
+    Staging Area    <-----------------
+                                    \|/
+                                    git commit
+                                    \|/
+     Repository     <-----------------
+
+
+    
+    
