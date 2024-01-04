@@ -46,3 +46,13 @@
         - DataBase에 저장된 데이터를 읽기, 쓰기, 삭제, 변경을 수행(CRUD)
         - DB 테이블 당 하나의  DAo를 작성 (1:1)
         
+4. validator를 이용한 검증
+    1) 객체를 검증하기 위한 인터페이스 
+    2) 객체 검증기( validator) 구현에 사용
+        - boolean supports(Classs<?> clazz)
+            - 이 검증기로 검증가능한 객체인지 알려주는 메서드 
+        -void validata(Object target, Errors errors)
+            - 객체를 검증하는 메서드 
+            - target : 검증할 객체 
+            - errors :검증시 발생한 에러저장소
+

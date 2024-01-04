@@ -1,0 +1,14 @@
+1. Lab
+    1) Shopping이라는 폴더를 생성하시오. 
+    2) Shopping 폴더내부에 새로운 git repo를 초기화 하시오.
+    3) 새로운 yard.txt 파일을 생성하시오. 
+    4) 또다른 groceries.txt 파일을 생성하시오.
+    5) "create yard and groceries lists" 메시지로 커밋하시오. 
+    6) yard.txt 파일에 아래 사항(내용)을 추가하시오
+    7) groceries.txt 파일에 아래의 내용을 추가하시오. 
+    8) groceries.txt 파일을 "add documents" 메시지로 커밋하시오.
+    9) yard.txt 파일을 "add items" 메시지로 커밋하시오. 
+    10) groceries.txt 파일에 아래 사항(내용)을 추가하시오. 
+    11) yard.txt 파일에 아래 사항(내용)을 추가하시오. 
+    12) 두 파일은 "add  items to complete" 메시지로 커밋하시오. 
+    13) 깃 커밋한 리스트를 깃 커멘드로 출력하시오. 

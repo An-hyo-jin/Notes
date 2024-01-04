@@ -37,6 +37,7 @@
         - git tracks a directory and all nested subdirectories
         - git is now watching that!
     3) git commit
+    4) git commit --amend 
 
 5. Committing 
     1) save
@@ -55,7 +56,7 @@
                                     \|/
                                     git add 
                                      |
-    Staging Area    <-----------------
+     Staging Area    <----------------
                                     \|/
                                     git commit
                                     \|/

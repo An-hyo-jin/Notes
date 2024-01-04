@@ -58,4 +58,15 @@
 
         - education 변수 처리  = > 삭제
         - occupation 변수 처리 => 더미 변수로 처리 (변환하면 14개가 생김) 
-        - native-country 
+        - native-country 변수 처리 
+            - United-States가 압도적으로 큰 비중 차지함 
+
+    5) 결측치 처리 및 더미 변수 변환 
+        - 총 3개의 변수에서 결측치가 보임 
+            - workclass  (5%)
+            - occupation   (5%)    
+            - native-country  (1.7%)   
+
+
+
+
